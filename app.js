@@ -61,9 +61,9 @@ function renderCafe(doc){
 //     city: "delhi"
 // })
 //->.set method overwrites whole document
-db.collection('cafes').doc('...........id......').set({
-    city: "delhi"
-})
+// db.collection('cafes').doc('...........id......').set({
+//     city: "delhi"
+// })
 
 
 
